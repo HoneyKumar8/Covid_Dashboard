@@ -1,0 +1,9 @@
+.counter {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+.counter .count {
+  min-width: 28px;
+  text-align: center;
+}

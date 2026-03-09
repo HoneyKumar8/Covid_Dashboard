@@ -1,0 +1,23 @@
+.notfound {
+  text-align: center;
+  padding: 30px 12px;
+}
+.notfound img {
+  max-width: 600px;
+  display: block;
+  margin: 0 auto 12px;
+}
+.notfound h1 {
+  margin: 8px 0;
+  font-size: 20px;
+}
+.notfound p {
+  color: #6b7280;
+  margin-bottom: 12px;
+}
+.nfbtn {
+  color: rgb(255, 255, 255);
+  background-color: #335cac;
+  padding: 10px 25px;
+  border-radius: 15px;
+}

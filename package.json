@@ -2,7 +2,7 @@
   "name": "covid19-dashboard",
   "private": true,
   "version": "1.0.0",
-  "homepage": "https://honeykumar8.github.io/Covid_Dashboard.git",
+  "homepage": "https://honeykumar8.github.io/Covid_Dashboard",
   "engines": {
     "node": "^10.13 || 12 || 14 || 15",
     "npm": ">=6"
